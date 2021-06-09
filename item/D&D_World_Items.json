@@ -1,23 +1,33 @@
 {
-    "_meta": {
-        "sources": [
-            {
-                "json": "ddw",
-                "abbreviation": "DDW",
-                "full": "D&D World Items",
-                "authors": [
-                    "Hodron"
-                ],
-                "convertedBy": [
-                    "Hodron"
-                ],
-                "version": "1.0.0",
-                "color": "",
-                "url": "",
-                "targetSchema": "1.2"
-            }
-        ],
-        "dateAdded": 1623268793,
-        "dateLastModified": 1623268793
-    }
+	"_meta": {
+		"sources": [
+			{
+				"json": "ddw",
+				"abbreviation": "DDW",
+				"full": "D&D World Items",
+				"authors": [
+					"Hodron"
+				],
+				"convertedBy": [
+					"Hodron"
+				],
+				"version": "1.0.0",
+				"color": "",
+				"url": "https://github.com/Hodron/Hombrew/blob/master/README.md",
+				"targetSchema": "1.2"
+			}
+		],
+		"dateAdded": 1623268793,
+		"dateLastModified": 1623268793
+	},
+	"item": [
+		{
+			"name": "Test Item",
+			"source": "ddw",
+			"rarity": "none",
+			"entries": [
+				""
+			]
+		}
+	]
 }
